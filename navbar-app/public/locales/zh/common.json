@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "services": "服务",
+    "products": "产品",
+    "contact": "联系我们"
+  },
+  "userMenu": {
+    "profile": "个人中心",
+    "settings": "设置",
+    "logout": "退出登录"
+  },
+  "home": {
+    "title": "开始使用，编辑 page.tsx 文件。",
+    "description": "正在寻找起点或更多说明？前往 {{templates}} 或 {{learningCenter}}。",
+    "templates": "模板",
+    "learningCenter": "学习中心",
+    "deploy": "立即部署",
+    "documentation": "文档"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "about": "私たちについて",
+    "services": "サービス",
+    "products": "製品",
+    "contact": "お問い合わせ"
+  },
+  "userMenu": {
+    "profile": "プロフィール",
+    "settings": "設定",
+    "logout": "ログアウト"
+  },
+  "home": {
+    "title": "始めるには、page.tsxファイルを編集してください。",
+    "description": "スタートポイントや詳しい説明を探していますか？{{templates}}または{{learningCenter}}にアクセスしてください。",
+    "templates": "テンプレート",
+    "learningCenter": "学習センター",
+    "deploy": "今すぐデプロイ",
+    "documentation": "ドキュメント"
+  }
+}
