@@ -1,13 +1,11 @@
 
 import './App.css';
-import FormExample from './FormExample';
+import Dashboard from './Dashboard';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <FormExample />
-      </header>
+      <Dashboard wsUrl="ws://localhost:3001" />
     </div>
   );
 }
