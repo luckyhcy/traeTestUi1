@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4727b57-182e-40fd-a6a7-1f3c36a20b50" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/reactTest/src/VueElementForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactTest/src/vue-components/ElementForm.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactTest/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/reactTest/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactTest/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/reactTest/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactTest/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/reactTest/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactTest/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/reactTest/vite.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,14 +49,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "dev4",
     "last_opened_file_path": "/Users/huangchengyi/traeTest/traeTestUi1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "ts.external.directory.path": "/Users/huangchengyi/traeTest/traeTestUi1/navbar-app/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
